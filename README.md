@@ -1,4 +1,4 @@
-# Hash Attack
+# Diffie Hellman Algorithm
 
 A computer security example.
 
